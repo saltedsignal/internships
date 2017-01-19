@@ -5,7 +5,7 @@ Salted Signal's intensive, four week, unpaid internship program could be your ch
 This opportunity is open to Australian permanent residents and/or citizens who are looking to gain experience in the ICT/cyber-security industry in Melbourne, Australia. Although applicants require no qualifications to apply, the application process itself will require solving a handful of technical problems to demonstrate undergraduate-level knowledge in computer science and thus secure an interview. It is our intention to interview every eligible applicant who successfully meets the requirements of the application process.
 
 Expect to be thrown in the deep end. Sure, you might sink. But if you swim, you could be our next Site Reliability Engineer.
-Like being challenged? read on.
+Like being challenged? Read on.
 
 ## The Task
 
